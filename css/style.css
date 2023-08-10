@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+section{
+    text-align: center;
+    align-items: center;
+    
+
+}
+.main{
+    align-items: center;
+    margin: 200px;
+}
+
+.header{
+    border-radius: 78px;
+    background: #deddda;
+    box-shadow:  20px 20px 67px #bdbcb9,
+             -20px -20px 67px #fffefb;
+    display: flex;
+    justify-content: space-between;
+}
+.header .header-photo{
+    background: gray;
+}
+
+.header .header-photo img{
+    width: 120px;
+    height: 90px;
+    border-radius: 78px;
+    background: #9141ac;
+    box-shadow:  20px 20px 40px #7b3792,
+             -20px -20px 40px #a74bc6;
+}
+
+.header .cup{
+    text-align: right;
+    
+}
+.header .cup img{
+    width: 80px;
+    height: 80px;
+    border-radius: 78px;
+background: #33d17a;
+box-shadow:  20px 20px 40px #2bb268,
+             -20px -20px 40px #3bf08c;
+    
+}
+
+
+
+.header-txt-photo img{
+    height: 100px;
+    width: 100%;
+
+}
+.body-Part{
+    background-image: url("images/photo1.jpg");
+    background-color: #cccccc;
+   
+}
+
+.body-Part .dir{
+    font-size: 25px;
+    color: rgb(75, 5, 54);
+    font-weight: bold;
+    font-style: italic;
+}
+.body-Part .name{
+    font-family: 'Lobster', cursive;
+}
+.body-Part .me{
+    font-size: 30px;
+    color: green;
+
+}
+.body-Part .ron{
+    font-size: 25px;
+    color: yellow;
+
+}
+.body-Part .melaku{
+    font-size: 25px;
+    color: red;
+
+}
+.body-Part p{
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+    color: dodgerblue;
+    font-size: 15px;
+    border-radius: 61px;
+    background: #e0e0e0;
+    box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+
+.end-tag{
+    display: flex;
+    height: 100px;
+    border-radius: 78px;
+    background: #deddda;
+    box-shadow:  20px 20px 40px #bdbcb9,
+             -20px -20px 40px #fffefb;
+}
+.end-tag .congra-end img{
+    width: 80%;
+    height: 100px;
+    border-radius: 78px;
+    background: #deddda;
+    box-shadow:  20px 20px 40px #bdbcb9,
+             -20px -20px 40px #fffefb;
+}
+.end-tag .flower img{
+    height: 100px;
+    width: auto;
+    border-radius: 113px;
+background: #c0bfbc;
+box-shadow:  20px 20px 60px #a3a2a0,
+             -20px -20px 60px #dddcd8;
+}
